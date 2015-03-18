@@ -1,0 +1,7 @@
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_00_PrimeraAPP\Program_00_PrimeraAPP\bin\Debug\Program_00_PrimeraAPP.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_00_PrimeraAPP\Program_00_PrimeraAPP\bin\Debug\Program_00_PrimeraAPP.pdb
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_00_PrimeraAPP\Program_00_PrimeraAPP\obj\x86\Debug\Program_00_PrimeraAPP.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_00_PrimeraAPP\Program_00_PrimeraAPP\obj\x86\Debug\Program_00_PrimeraAPP.Properties.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_00_PrimeraAPP\Program_00_PrimeraAPP\obj\x86\Debug\Program_00_PrimeraAPP.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_00_PrimeraAPP\Program_00_PrimeraAPP\obj\x86\Debug\Program_00_PrimeraAPP.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_00_PrimeraAPP\Program_00_PrimeraAPP\obj\x86\Debug\Program_00_PrimeraAPP.pdb

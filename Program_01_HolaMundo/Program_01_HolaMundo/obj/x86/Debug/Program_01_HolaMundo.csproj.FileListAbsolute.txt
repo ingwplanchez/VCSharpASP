@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_01_HolaMundo\Program_01_HolaMundo\bin\Debug\Program_01_HolaMundo.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_01_HolaMundo\Program_01_HolaMundo\bin\Debug\Program_01_HolaMundo.pdb
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_01_HolaMundo\Program_01_HolaMundo\obj\x86\Debug\Program_01_HolaMundo.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_01_HolaMundo\Program_01_HolaMundo\obj\x86\Debug\Program_01_HolaMundo.pdb

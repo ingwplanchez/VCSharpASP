@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_02_For\Program_02_For\bin\Debug\Program_02_For.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_02_For\Program_02_For\bin\Debug\Program_02_For.pdb
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_02_For\Program_02_For\obj\x86\Debug\Program_02_For.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_02_For\Program_02_For\obj\x86\Debug\Program_02_For.pdb
