@@ -1,0 +1,4 @@
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_04_Switch\Program_04_Switch\bin\Debug\Program_04_Switch.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_04_Switch\Program_04_Switch\bin\Debug\Program_04_Switch.pdb
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_04_Switch\Program_04_Switch\obj\x86\Debug\Program_04_Switch.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_04_Switch\Program_04_Switch\obj\x86\Debug\Program_04_Switch.pdb
