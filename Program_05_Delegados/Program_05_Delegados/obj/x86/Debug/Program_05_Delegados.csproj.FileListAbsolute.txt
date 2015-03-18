@@ -1,0 +1,7 @@
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_05_Delegados\Program_05_Delegados\bin\Debug\Program_05_Delegados.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_05_Delegados\Program_05_Delegados\bin\Debug\Program_05_Delegados.pdb
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_05_Delegados\Program_05_Delegados\obj\x86\Debug\Program_05_Delegados.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_05_Delegados\Program_05_Delegados\obj\x86\Debug\Program_05_Delegados.Properties.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_05_Delegados\Program_05_Delegados\obj\x86\Debug\Program_05_Delegados.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_05_Delegados\Program_05_Delegados\obj\x86\Debug\Program_05_Delegados.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_05_Delegados\Program_05_Delegados\obj\x86\Debug\Program_05_Delegados.pdb

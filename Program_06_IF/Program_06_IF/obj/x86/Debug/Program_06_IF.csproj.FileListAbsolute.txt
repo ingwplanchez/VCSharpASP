@@ -1,0 +1,7 @@
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_06_IF\Program_06_IF\bin\Debug\Program_06_IF.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_06_IF\Program_06_IF\bin\Debug\Program_06_IF.pdb
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_06_IF\Program_06_IF\obj\x86\Debug\Program_06_IF.Form1.resources
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_06_IF\Program_06_IF\obj\x86\Debug\Program_06_IF.Properties.Resources.resources
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_06_IF\Program_06_IF\obj\x86\Debug\Program_06_IF.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_06_IF\Program_06_IF\obj\x86\Debug\Program_06_IF.exe
+C:\Users\Anonymous\Documents\GitHub\VCSharpASP\Program_06_IF\Program_06_IF\obj\x86\Debug\Program_06_IF.pdb
